@@ -13,17 +13,17 @@ Use of Laravel as the primary framework for web application development.
 Handling MongoDB databases for efficient data storage and retrieval.
 🚀 Skills
 
--PHP
--WordPress
--Laravel
--MongoDB
--MYSQL
--PostgresSQL
--APIs
--Vue
--Html
--JavaScript
--Css
+- PHP
+- WordPress
+- Laravel
+- MongoDB
+- MYSQL
+- PostgresSQL
+- APIs
+- Vue
+- Html
+- JavaScript
+- Css
 
 - 🔭 Featured Projects
 
