@@ -2,10 +2,6 @@ Hello 👋, I'm Freddy Garcia
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddy-jose-garcia-2735a977/)
 
-GitHub
-
-Portfolio
-
 I'm a senior software engineer with over 8 years of experience in development. I specialize in PHP and have extensive knowledge in customizing WordPress and developing custom PHP-based applications to meet client requests. Additionally, I have experience in creating and integrating APIs, with expertise in the Laravel framework and MongoDB database.
 
 💼 Experience
