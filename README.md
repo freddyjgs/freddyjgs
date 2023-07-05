@@ -24,7 +24,8 @@ Vue
 Html
 JavaScript
 Css
-🔭 Featured Projects
+
+- 🔭 Featured Projects
 
 I'm excited to take on new challenges and leverage my PHP development expertise to drive innovative solutions!
 
